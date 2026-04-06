@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Привет, я Максим 👋</h1>
-  <p><strong>QA Automation Engineer</strong></p>
+  <p><strong>FullStack QA Engineer</strong></p>
   <p>
     Пишу автотесты для UI и API, строю стабильные пайплайны и отчётность для команды.
   </p>
