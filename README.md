@@ -84,17 +84,25 @@
 
 ## Связаться со мной
 
-<p align="center">
-  <a href="https://t.me/MaximShkolnyy" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:24px;">
-    <img src="./assets/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
-  </a>
-  <a href="https://vk.com/maximshkolnyy" target="_blank" rel="noreferrer" style="display:inline-block;">
-    <img src="./assets/icons/vk.svg" width="48" height="48" alt="VK"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/MaximShkolnyy" style="text-decoration:none;">Telegram</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vk.com/maximshkolnyy" style="text-decoration:none;">VK</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="88">
+      <a href="https://t.me/MaximShkolnyy" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
+      </a>
+    </td>
+    <td align="center" width="88">
+      <a href="https://vk.com/maximshkolnyy" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/vk.svg" width="48" height="48" alt="VK"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://t.me/MaximShkolnyy">Telegram</a>
+    </td>
+    <td align="center">
+      <a href="https://vk.com/maximshkolnyy">VK</a>
+    </td>
+  </tr>
+</table>
