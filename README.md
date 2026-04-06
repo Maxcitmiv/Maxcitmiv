@@ -17,7 +17,7 @@
       <img src="./assets/icons/pytest.svg" width="40" height="40" alt="Pytest"/><br/>Pytest
     </td>
     <td align="center" width="120">
-      <img src="./assets/icons/selenium.svg" width="40" height="40" alt="Selenium"/><br/>Selenium
+      <img src="./assets/icons/selene.svg" width="40" height="40" alt="Selene"/><br/>Selene
     </td>
     <td align="center" width="120">
       <img src="./assets/icons/playwright.svg" width="40" height="40" alt="Playwright"/><br/>Playwright
@@ -71,7 +71,7 @@
 
 ### [SolarTest](https://github.com/Maxcitmiv/SolarTest)
 
-Автоматизация UI-тестов для `rt-solar.ru` на Python + Pytest + Selenium.
+Автоматизация UI-тестов для `rt-solar.ru` на Python + Pytest + Selene.
 
 - Запуск тестов в удалённом браузере через Selenoid
 - CI-пайплайн в Jenkins
