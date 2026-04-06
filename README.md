@@ -86,14 +86,10 @@
 
 <p align="center">
   <a href="https://t.me/MaximShkolnyy" target="_blank" rel="noreferrer">
-    <img src="./assets/icons/telegram.svg" width="44" height="44" alt="Telegram"/>
+    <img src="./assets/icons/telegram.svg" width="46" height="46" alt="Telegram"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/maximshkolnyy" target="_blank" rel="noreferrer">
-    <img src="./assets/icons/vk.svg" width="44" height="44" alt="VK"/>
+    <img src="./assets/icons/vk.svg" width="46" height="46" alt="VK"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/MaximShkolnyy">Telegram</a> •
-  <a href="https://vk.com/maximshkolnyy">VK</a>
 </p>
